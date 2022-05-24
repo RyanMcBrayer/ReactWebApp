@@ -1,0 +1,23 @@
+.sidebar {
+  width: calc(20vw - 5px);
+  margin-left: 5px;
+  height: calc(100vh - 10px);
+  position: fixed;
+  background: #0275d8;
+  color: white;
+}
+
+.star {
+  background: transparent;
+  border: none;
+  font-size: 1.5rem;
+  color: gold;
+}
+
+.star-disabled {
+  filter: grayscale(100%);
+}
+
+.rating {
+  font-weight: 700;
+}
