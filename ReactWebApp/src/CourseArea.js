@@ -106,7 +106,6 @@ class CourseArea extends React.Component {
       return(
         <>
       <ButtonGroup size="lg" style={{ margin: "5px"}}>
-        <Button onClick={() => this.openSearchCart()}>Return to Search</Button>
         <Button variant="success" onClick={() => this.openComplete()}>Complete Registration</Button>
       </ButtonGroup>
          <Modal show={this.state.showComplete}> 
@@ -125,10 +124,6 @@ class CourseArea extends React.Component {
     else if(this.props.mode === "cart"){
       return(
         <>
-      <ButtonGroup size="lg" style={{ margin: "5px"}}>
-        <Button onClick={() => this.openSearchCart()}>Return to Search</Button>
-        <Button variant="success" onClick={() => this.openRatings()}>Continue to Ratings</Button>
-      </ButtonGroup>
         </>
       )
     }
