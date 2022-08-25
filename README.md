@@ -2,6 +2,7 @@
 A web-based store app implemented using ReactJS
 
 This app is an example course search and review program for UW-Madison.
+The styling is done with React-Bootstrap.
 
 Note: This app was created as a course project for my user interfaces course. The API to retrieve course info was provided, but interfacing with the API through HTTP was my responsiblity. 
 
