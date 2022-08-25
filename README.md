@@ -2,7 +2,7 @@
 A web-based store app implemented using ReactJS
 
 Note: Since this was a course project, some of the source code was given by the instructional staff as starter code.
-The staff provided a start to the App.js file that setup the basic structure of the site. They also provided an API that I could interface with to acquire all the relevant info to render in the app. I was responsible for getting the info from the API, rendering every course to the page, and implementing all the app functions (such as the search/filtering feature, the rating feature, and the function of the buttons). Additionally, I added styles using React Bootstrap.
+The staff provided a start to the App.js file that setup the basic structure of the site. They also provided an API that I could interface with to acquire all the relevant info to render in the app. I was responsible for getting the info from the API, rendering every course to the page, and implementing all the app functions (such as the search/filtering feature, the rating system, the pop-up modals, and the function of the buttons). Additionally, I added styles using React Bootstrap.
 
 
 
