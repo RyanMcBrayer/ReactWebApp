@@ -1,7 +1,7 @@
 # ReactWebApp
 A web-based store app implemented using ReactJS
 
-Note: Since this was a school project, some of the source code was given by the instructional staff.
+Note: Since this was a school project, some of the source code was given by the instructional staff as starter code.
 My role was to implement features using the provided API such as the search function, cart, and review page. Additionally,
 I added styles using React Bootstrap
 
